@@ -238,6 +238,9 @@ a.register {
     html{
       font-size: 14px;
     }
+  header {
+        box-shadow: 0.6rem 0.6rem 0.5rem 0 rgba(154, 163, 163, 0.8);
+    }
     ul {
         position: relative;
     }
@@ -256,7 +259,7 @@ a.register {
         display: none;
         position: absolute;
         background-color: #a3c2c0d2;
-        box-shadow: 0.5rem 0.5rem 0.5rem 0 rgba(154, 163, 163, 0.5);
+        box-shadow: 0.5rem 0.5rem 0.5rem 0 rgba(255, 115, 0, 0.158);
         border-radius: 2.5rem;
     }
     header ul .main-menu li a{
@@ -313,7 +316,7 @@ a.register {
       }
       .parent > div {
           width: 100%;
-          padding-bottom: 8rem;
+          padding-bottom: 1rem;
           
       }
       .content a {
