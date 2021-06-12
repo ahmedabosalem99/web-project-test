@@ -258,7 +258,7 @@ a.register {
         flex-wrap: wrap;
         display: none;
         position: absolute;
-        background-color: #a3c2c0d2;
+        background-color: #a3c2c0f5;
         box-shadow: 0.5rem 0.5rem 0.5rem 0 rgba(255, 115, 0, 0.158);
         border-radius: 2.5rem;
     }
