@@ -285,9 +285,7 @@ a.register {
         right: 10rem;
         border-radius:1rem;
       }
-      a.icon:hover {
-        padding: 0.3rem 0.7rem;
-        background-color: rgb(120 173 173);
+      a.icon:hover {     
         color:#ff8e0d;
       }
       header .logo {

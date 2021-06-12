@@ -364,8 +364,6 @@ background-color: #f37e00;
         border-radius:1rem;
       }
       a.icon:hover {
-        padding: 0.3rem 0.7rem;
-        background-color: rgb(120 173 173);
         color:#ff8e0d;
       }
       header .logo {
@@ -421,6 +419,16 @@ section h1 {
     padding-top: 2rem;
 }
 
+section h2 img{
+    width: 3.2rem;
+    height: 3.2rem
+}
+section h2 {
+    font-size: 2.2rem;
+}
+.footer-distributed {
+    margin-top: 8rem;
+}
 .footer-distributed .footer-left, .footer-distributed .footer-right {
     text-align: center;
   }
